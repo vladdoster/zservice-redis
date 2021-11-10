@@ -12,7 +12,7 @@ ztie -d db/redis -f "127.0.0.1:4815/3/MYLIST" -L list mylist
 
 The command `ztie` is provided by [zdharma/zredis](https://github.com/zdharma/zredis) plugin.
 
-## [Zplugin](https://github.com/zdharma/zplugin)
+## [Zplugin](https://github.com/zdharma-continuum/zinit)
 
 A service-plugin needs a plugin manager that supports loading single plugin instance
 per all active Zsh sessions, in background. Zplugin supports this, just add:
